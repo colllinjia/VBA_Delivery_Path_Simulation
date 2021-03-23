@@ -6,3 +6,4 @@ The NNH Model works in this way: Starting from the bakery, it determines the nea
 The staff can also run the simulation to determine the distribution of on-time delivery percentage, delivery time, and cost based on the randomly generated order. The staff can control the simulation by changing the relevant input in the simulation input sheet.
 Moreover, It includes the Record Management system to manage the customer, product, and order info. Also, it includes generating the weekly delivery schedule and historical reports based on historical orders.
 
+Please read the detailed project description in Project Description.pdf. And the application is in the Project model.xlsm
