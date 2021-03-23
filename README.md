@@ -8,6 +8,6 @@ Moreover, It includes the Record Management system to manage the customer, produ
 
 Please read the detailed project description in [Project Description](Project_Description.pdf). 
 
-The application is in the [Project model](Project_Model.xlsm).
+The application is in the [Project Model](Project_Model.xlsm).
 
 The detailed explanation of the application is in [Project Report](Project_Report.pdf).
